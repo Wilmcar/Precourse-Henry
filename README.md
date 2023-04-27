@@ -1,2 +1,1 @@
-# Precourse-Henry
-Creando mi primer repositorio
+Clonando mi primer repositorio y editandolo
